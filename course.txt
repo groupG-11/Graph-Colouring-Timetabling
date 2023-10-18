@@ -1,0 +1,10 @@
+   'Course': ['Computer Science']*15 + ['Database Development']*15,\
+    'Sem': [1,1,1,1,1,2,2,2,2,2,3,3,3,3,3]*2,\
+    'Sub1': ['A','A','A','A','A','E','A','E','B','E','H','A','B','H','H','A','A','A','A','A','E','A','E','B','M','P','P','B','B','P'],\
+    'Sub2': ['B','B','B','B','B','F','B','F','E','F','I','I','H','I','I','B','B','B','B','B','F','B','F','E','E','I','I','O','I','I'],\
+    'Sub3': ['C','C','C','C','C','G','E','G','F','G','J','J','I','J','J','M','M','M','M','M','O','E','O','F','F','J','J','I','J','J'],\
+    'Sub4': ['D','D','D','D','D','H','F','H','G','H','K','K','J','K','K','N','N','N','N','N','P','F','P','O','O','Q','Q','J','Q','Q'],\
+    'Sub5': ['NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'G', 'NaN', 'H', 'NaN', 'L', 'L', 'K', 'L', 'L','NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'NaN','O','NaN','P','P','R','R','Q','R','R'],\
+    'Sub6': ['NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'H', 'NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'L', 'NaN', 'NaN','NaN', 'NaN', 'NaN', 'NaN', 'NaN', 'NaN','P','NaN','NaN','NaN','NaN','NaN','R','NaN','NaN']\
+\
+}
